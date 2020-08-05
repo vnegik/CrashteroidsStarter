@@ -5,7 +5,7 @@ namespace Tests
 {
     public class GeneralTest
     {
-        public Game game;
+        protected Game game;
 
         [SetUp]
         public void Setup()
